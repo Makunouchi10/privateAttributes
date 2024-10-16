@@ -20,5 +20,4 @@ inventario.agregar_producto('Producto1', 3, 36)
 inventario.agregar_producto('Producto2', 4, 240)
 inventario.agregar_producto('Producto3', 5, 225)  # No permitido
 
-inventario.mostrar_inventario()
 inventario.sumar_precios_unitarios()
